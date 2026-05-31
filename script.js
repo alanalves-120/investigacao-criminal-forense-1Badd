@@ -5,7 +5,7 @@
 const DOSSIÊS = {
   alana:{
     badge:'DOSSIÊ I · INTRODUÇÃO À INVESTIGAÇÃO CRIMINAL',
-    name:'Alana & Laura',photo:'fotos/alana.jpg',
+    name:'Alana & Laura',photo:'fotos/alana.jpeg',
     sub:'Introdução à Investigação Criminal',
     team:'🔦 Alana & Laura',req:true,
     text:`Antes de começar, deixa eu perguntar uma coisa: quem aqui gosta de séries de investigação, documentários criminais ou podcasts de crimes reais? Muita gente gosta porque tenta entender o que aconteceu, ligar pistas e descobrir quem está por trás do caso.
@@ -31,7 +31,7 @@ E para mostrar como tudo isso funciona na prática, nós criamos um <strong>caso
 
   gaby:{
     badge:'DOSSIÊ II · PERÍCIA BIOLÓGICA & DNA',
-    name:'Gaby & Bia',photo:'fotos/gaby.jpg',
+    name:'Gaby & Bia',photo:'fotos/gaby.jpeg',
     sub:'Perícia Biológica e DNA',
     team:'🧬 Gaby Fonseca & Bianca',req:true,
     text:`A perícia biológica é responsável por analisar vestígios deixados pelo corpo humano em uma investigação criminal. Esses vestígios podem estar presentes em sangue, saliva, fios de cabelo, suor, unhas, tecidos e diversos outros materiais encontrados na cena do crime.
@@ -53,7 +53,7 @@ Assim, a análise de DNA se tornou uma das ferramentas mais precisas da ciência
 
   julia:{
     badge:'DOSSIÊ III · IMPRESSÕES DIGITAIS & EVIDÊNCIAS FÍSICAS',
-    name:'Julia & Rafa',photo:'fotos/julia.jpg',
+    name:'Julia & Rafa',photo:'fotos/julia.jpeg',
     sub:'Impressões Digitais e Evidências Físicas',
     team:'🩹 Julia & Rafaela dos Passos',req:true,
     text:`As impressões digitais são consideradas uma das formas mais seguras de identificação humana, porque cada pessoa possui padrões únicos nos dedos. A área responsável pelo estudo dessas marcas é chamada de <strong>papiloscopia</strong>.
@@ -75,7 +75,7 @@ Assim, as impressões digitais, as evidências físicas e a tecnologia forense t
 
   keth:{
     badge:'DOSSIÊ IV · PSICOLOGIA CRIMINAL',
-    name:'Keth & Luan',photo:'fotos/keth.jpg',
+    name:'Keth & Luan',photo:'fotos/keth.jpeg',
     sub:'Psicologia Criminal e Análise Comportamental',
     team:'🧠 Kethelyn & Luan',req:true,
     text:`Vamos falar sobre psicologia criminal e análise comportamental, uma área que busca entender não apenas o que aconteceu em um crime, mas principalmente <strong>por que</strong> aquilo aconteceu.
@@ -105,7 +105,7 @@ Por isso, a psicologia criminal é tão importante: ela transforma comportamento
 
   emili:{
     badge:'DOSSIÊ V · IDENTIFICAÇÃO FORENSE',
-    name:'Sofia & Emili',photo:'fotos/emili.jpg',
+    name:'Sofia & Emili',photo:'fotos/emili.jpeg',
     sub:'Identificação Forense',
     team:'🔬 Sofia & Emili',req:true,
     text:`Vamos falar sobre a <strong>identificação forense</strong>, uma das áreas mais importantes da ciência forense.
@@ -127,7 +127,7 @@ Assim, a identificação forense combina ciência, biologia e investigação par
 
   nayme:{
     badge:'DOSSIÊ VI · RECONSTRUÇÃO DO CASO',
-    name:'Nay & Jhulie',photo:'fotos/nayme.jpg',
+    name:'Nay & Jhulie',photo:'fotos/nayme.jpeg',
     sub:'Reconstrução do Caso + Interação com o Público',
     team:'🕶️ Nayme & Jhulie',req:true,
     text:`Agora a investigação entra em uma das etapas mais importantes: a <strong>reconstrução do caso</strong>.
